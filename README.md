@@ -1,2 +1,1 @@
-# -my first operations on github ,i hope it's ok!
-# fourtunately, it's ok! thanks god!
+# 2018-2019学年 春夏学期 《面向对象程序设计》课程project
